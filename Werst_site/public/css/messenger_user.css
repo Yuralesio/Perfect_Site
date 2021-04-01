@@ -1,0 +1,31 @@
+#img_avatar{
+    width: 70px;
+    height: 75px;
+    float:left;
+    margin-right:25px;
+    border-radius:50%;
+}
+
+#field_message{
+    max-height: 580px;
+}
+
+#message{
+    font-size: 19px;
+    margin: 1px 1px 1px 1px;
+}
+
+#field_message {
+    overflow: auto;
+    width: auto;
+    height: 640px;
+    padding: 5px;
+
+}
+
+#user_recipient {
+    text-decoration: none;
+    color: #393737;
+
+}
+
